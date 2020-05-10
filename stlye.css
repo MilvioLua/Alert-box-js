@@ -1,8 +1,21 @@
 body {
  margin: auto;
  padding: inherit;
- background: green;
- font-family: Antom;
 
+text-align: center;
+}
 
+h1 {
+ font-size: 40px;
+ font-family: monospace;
+ text-align: center;
+
+}
+
+input {
+  border-radius: 30px;
+}
+
+placeholder {
+  text-align: center;
 }
